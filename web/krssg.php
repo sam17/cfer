@@ -47,6 +47,11 @@ being developed on controlling the humanoid to the Soccer playing strategy.
 
 which can play soccer.</li>
 </ul>
+
+<br/>
+<br/>
+<p>Link to Page: <a href="http://krssg.in/">LINK</a></p>
+
 </div>
 <br/>
 <br/>

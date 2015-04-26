@@ -31,7 +31,12 @@ a major contemporary field of application and research in institutes around the 
 
 to mention a vastly untapped one in India. The potential for use in the industry as well as 
 
-for non-commercial purposes is great.</div>
+for non-commercial purposes is great.
+
+<br/>
+<br/>
+<p>Link to Page: <a href="http://swarm-iitkgp.github.io/">LINK</a></p>
+</div>
 <br/>
 <br/>
 <?php

@@ -29,7 +29,7 @@
 						<img src="img/groups/quad.jpeg" />
 						</li>
 						<div align="justify">
-						<a href="aerial.php" target="_blank"><h4>Autonomous Aerial Navigation</h4></a><br/>
+						<h4>Autonomous Aerial Navigation</h4><br/>
                          <b> Abstract :</b><p>
 					<em>
 					    The aim of this project is to create an autonomous quadrotor, capable of balancing itself,
@@ -44,7 +44,7 @@ and will be capable of stable flight.
 						<li class="item-thumbs col-lg-3 design" data-id="id-0"  style="padding-top:30px;">
 						<img src="img/groups/agv.jpg" ></li>
 						<div>
-						<a href="agv.php"><h4>Autonomous Ground Vehicle (A.G.V)</h4></a><br/>
+						<h4>Autonomous Ground Vehicle (A.G.V)</h4><br/>
                          <b> Abstract:</b><p>
 					<em>
 					    Team AGV envisions making an autonomous vehicle that is not only practically feasible 
@@ -60,7 +60,7 @@ and will be capable of stable flight.
 						</li>
 
 						<div align="justify">
-						<a href="biomedical.php" target="_blank"><h4>Biomedical Robotics for neuro-controlled prosthesis</h4></a><br/>
+						<h4>Biomedical Robotics for neuro-controlled prosthesis</h4><br/>
                          <b> Abstract:</b><p>
 					<em>
 					Robotic systems for assistance and rehabilitation focus on providing missing movements 
@@ -78,7 +78,7 @@ regaining movement-related function easier and faster.
 						<img src="img/groups/swarm.jpeg" />
 						</li>
 						<div align="justify">
-						<a href="terrain_exploration.php" target="_blank"><h4>Decentralized Terrain Exploration with Robot Swarms</h4></a><br/>
+						<h4>Decentralized Terrain Exploration with Robot Swarms</h4><br/>
                          <b> Abstract :</b><p>
 					<em>
 					 The aim of this project is to design a team of coordinating robots which use swarm 
@@ -97,8 +97,7 @@ successive stages.
 						<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRasqdTGOb9kA4i5nCLFytAlx_W_5_wS2nFKlshnRb-EzrcO5Ve4A" height="150px;">
 						</li>
 						<div align="justify">
-						<a href="disabled.php" target="_blank"><h4>Design and Development of Orthotic Devices for Knee and Hip Joints during
-Walking of Disabled Person</h4></a><br/>
+						<h4>Design and Development of Orthotic Devices for Knee and Hip Joints during Walking of Disabled Person</h4><br/>
                          <b> Abstract :</b><p>
 					<em>
 					    Rehabilitation robotics plays an important role in taking care of older people to regain 
@@ -118,7 +117,7 @@ skeletal system to modify proper functional characteristics of neuromuscular act
 						<img src="img/groups/krssg.png" height="200px;">
 						</li>
 						<div align="justify">
-						<a href="krssg.php" target="_blank"><h4>Kharagpur Robot Soccer Students' Group (K.R.S.S.G)</h4></a><br/>
+						<h4>Kharagpur Robot Soccer Students' Group (K.R.S.S.G)</h4><br/>
                         <ul> <li><b> Abstract:</b><p>
 					<em>
 					   KRSSG is a student research group under the Department of Computer Science and 
@@ -137,7 +136,7 @@ skeletal system to modify proper functional characteristics of neuromuscular act
 						<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRasqdTGOb9kA4i5nCLFytAlx_W_5_wS2nFKlshnRb-EzrcO5Ve4A" height="150px;">
 						</li>
 						<div align="justify">
-						<a href="rsa.php" target="_blank"><h4>Robot as a Social Assistant</h4></a><br/>
+						<h4>Robot as a Social Assistant</h4><br/>
                          <b> Abstract :</b><p>
 					<em>
 					    This project is to develop a robotic framework with potential benefits in providing
@@ -155,7 +154,7 @@ skeletal system to modify proper functional characteristics of neuromuscular act
 						<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRasqdTGOb9kA4i5nCLFytAlx_W_5_wS2nFKlshnRb-EzrcO5Ve4A" height="150px;">
 						</li>
 						<div align="justify">
-						<a href="manufacturing.php" target="_blank"><h4>Robotics for Advanced Manufacturing Applications</h4></a><br/>
+						<h4>Robotics for Advanced Manufacturing Applications</h4><br/>
                          <b> Abstract :</b><p>
 					<em>
 					    The objectives of our research are (1) to develop intelligent sensor-based robotic system 
@@ -172,7 +171,7 @@ multi-finger robot grippers for applications in manufacturing.
 						<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRasqdTGOb9kA4i5nCLFytAlx_W_5_wS2nFKlshnRb-EzrcO5Ve4A" height="150px;">
 						</li>
 						<div align="justify">
-						<a href="humanoid.php" target="_blank"><h4>Undergraduate Research In Humanoid Robotics</h4></a><br/>
+						<h4>Undergraduate Research In Humanoid Robotics</h4><br/>
                          <b> Abstract :</b><p>
 					<em>
 					Humanoid robotics with bipedal walking has attracted several researchers and bright 
@@ -188,8 +187,7 @@ students worldwide, as these robots challenge the young minds with interesting p
 						<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRasqdTGOb9kA4i5nCLFytAlx_W_5_wS2nFKlshnRb-EzrcO5Ve4A" height="150px;">
 						</li>
 						<div align="justify">
-						<a href="underwater.php" target="_blank"><h4>Undergraduate Research Support for Underwater
-Robotics</h4></a><br/>
+						<h4>Undergraduate Research Support for Underwater Robotics</h4><br/>
                          <b> Abstract :</b><p>
 					<em>
 					    The objective of this project is to facilitate a continuing learning and development 
@@ -205,7 +203,7 @@ autonomous systems in underwater robotics.
 						<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRasqdTGOb9kA4i5nCLFytAlx_W_5_wS2nFKlshnRb-EzrcO5Ve4A" height="150px;">
 						</li>
 						<div align="justify">
-						<a href="emotion.php" target="_blank"><h4>User Emotion Classification from Keyboard Keystroke</h4></a><br/>
+						<h4>User Emotion Classification from Keyboard Keystroke</h4><br/>
                          <b> Abstract:</b><p>
 					<em>This project aims to develop a system capable of classifying user emotion (1. Happiness, 
 

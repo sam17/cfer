@@ -36,6 +36,12 @@ project has the potential to drastically improve the transport system. It will a
 development of ancillary technologies in both opencast as well as underground mine 
 
 mapping, collision avoidance system, aiding people with situational awareness data etc.
+
+
+</br>
+</br>
+<p>Link to Page: <a href="http://www.agv.iitkgp.ac.in/">LINK</a></p>
+
 </div>
 <br/>
 <br/>
