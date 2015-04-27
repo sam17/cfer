@@ -1,4 +1,5 @@
 	<!-- start header -->
+
 	<?php
 	  include 'header.php';
 	?>
@@ -203,6 +204,7 @@ autonomous systems in underwater robotics.
 						<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRasqdTGOb9kA4i5nCLFytAlx_W_5_wS2nFKlshnRb-EzrcO5Ve4A" height="150px;">
 						</li>
 						<div align="justify">
+
 						<h4>User Emotion Classification from Keyboard Keystroke</h4><br/>
                          <b> Abstract:</b><p>
 					<em>This project aims to develop a system capable of classifying user emotion (1. Happiness, 
@@ -216,6 +218,20 @@ data and relative position data of consecutive keystrokes (while typing on a key
 
                           Link to page : <a href="emotion.php">LINK</a>
                           </div> <br/><br/><hr/>
+					</ul>
+					<ul class="grid cs-style-3">
+						<li>
+							<figure>
+								<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRasqdTGOb9kA4i5nCLFytAlx_W_5_wS2nFKlshnRb-EzrcO5Ve4A" alt="img01">
+								<figcaption>
+									<h3>User Emotion Classification from Keyboard Keystroke</h3>
+									<!--<span>Develop a system capable of classifying user emotion based on timing 
+data and relative position data of consecutive keystrokes</span>-->
+									<a href="emotion.php">More</a>
+								</figcaption>
+							</figure>
+						</li>
+						<!-- ... -->
 					</ul>
 					</section>
 				</div>
@@ -232,7 +248,8 @@ data and relative position data of consecutive keystrokes (while typing on a key
     ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="js/jquery.js"></script>
-
+<script src="js/modernizr.custom.js"></script>
+<script src="js/toucheffects.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.fancybox.pack.js"></script>
 <script src="js/jquery.fancybox-media.js"></script>
