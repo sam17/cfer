@@ -1,5 +1,4 @@
 	<!-- start header -->
-
 	<?php
 	  include 'header.php';
 	?>
@@ -148,6 +147,25 @@ skeletal system to modify proper functional characteristics of neuromuscular act
 
                           Link to page : <a href="rsa.php">LINK</a>
                           </div><br/><hr/>
+
+                          <li class="item-thumbs col-lg-3 photography" data-id="id-2" data-type="graphic" style="padding-top:30px;">
+						<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+						<!-- Thumb Image and Description -->
+						<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRasqdTGOb9kA4i5nCLFytAlx_W_5_wS2nFKlshnRb-EzrcO5Ve4A" height="150px;">
+						</li>
+						<div align="justify">
+						<h4>Robotic Framework for exploring rugged and potentially hazardous terrain</h4><br/>
+                         <b> Abstract :</b><p>
+					<em>
+					This project is to develop a robotic non-wheeled framework having the capability to go 
+					through the utmost rugged terrains as well as to exercise immense stability.
+					 </em>
+				</p> <br/>
+						<b>Professor-in charge : Prof. J. Mukhopadhyay</b><br/>
+
+                          Link to page : <a href="hazardousterrain.php">LINK</a>
+                          </div><br/><hr/>
+						
 						<!-- End Item Project -->
 						<!-- Item Project and Filter Name -->
 						<li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="web" style="padding-top:30px;">
@@ -204,7 +222,6 @@ autonomous systems in underwater robotics.
 						<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRasqdTGOb9kA4i5nCLFytAlx_W_5_wS2nFKlshnRb-EzrcO5Ve4A" height="150px;">
 						</li>
 						<div align="justify">
-
 						<h4>User Emotion Classification from Keyboard Keystroke</h4><br/>
                          <b> Abstract:</b><p>
 					<em>This project aims to develop a system capable of classifying user emotion (1. Happiness, 
@@ -214,24 +231,10 @@ autonomous systems in underwater robotics.
 data and relative position data of consecutive keystrokes (while typing on a keyboard).
 					  					 </em>
 				</p> <br/>
-								<b>Professor-in charge : Prof. D.K. Pratihar,Prof. P.P. Chakrabarti</b><br/>
+								<b>Professor-in charge : Prof. P.P. Chakrabarti</b><br/>
 
                           Link to page : <a href="emotion.php">LINK</a>
                           </div> <br/><br/><hr/>
-					</ul>
-					<ul class="grid cs-style-3">
-						<li>
-							<figure>
-								<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRasqdTGOb9kA4i5nCLFytAlx_W_5_wS2nFKlshnRb-EzrcO5Ve4A" alt="img01">
-								<figcaption>
-									<h3>User Emotion Classification from Keyboard Keystroke</h3>
-									<!--<span>Develop a system capable of classifying user emotion based on timing 
-data and relative position data of consecutive keystrokes</span>-->
-									<a href="emotion.php">More</a>
-								</figcaption>
-							</figure>
-						</li>
-						<!-- ... -->
 					</ul>
 					</section>
 				</div>
@@ -248,8 +251,7 @@ data and relative position data of consecutive keystrokes</span>-->
     ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="js/jquery.js"></script>
-<script src="js/modernizr.custom.js"></script>
-<script src="js/toucheffects.js"></script>
+
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.fancybox.pack.js"></script>
 <script src="js/jquery.fancybox-media.js"></script>

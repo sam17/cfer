@@ -38,8 +38,9 @@
 	<section id="content">
 	<div class="container" style="text-align:justify">
 		<p class="lead">
-		<b>The Centre for Robotics, Indian Institute of Technology Kharagpur, India</b>, is an umbrella body, under the aegis of which, all robotics-related activities of the Institute will be conducted and coordinated. This centre is the initiative of <b>Professor Partha Pratim Chakrabarti, the Director of IIT Kharagpur</b>.<br>
-	     <br>The main emphasis of the centre is the design and development of intelligent and autonomous robots. The vision behind it is to promote and encourage student activities, research projects, and relevant courses related to this field. Besides the students, a large number of faculty members from various departments have joined this centre. 
+		<b>The Centre for Excellence in Robotics, Indian Institute of Technology Kharagpur, India</b>, is an umbrella body, under the aegis of which, all robotics-related activities of the Institute will be conducted and coordinated. This centre is the initiative of <b>Professor Partha Pratim Chakrabarti, the Director of IIT Kharagpur</b>.<br>
+	     <br>The main emphasis of the centre is the design and development of intelligent and autonomous robots. The vision behind it is to promote and encourage student activities, research projects, and relevant courses related to this field. Besides the students, a large number of faculty members from various departments have joined this centre.<br/>
+	    <br/> Finally Centre for Excellence in Robotics would like to thank <b>Sponsored Research and Industrial Consultancy,IIT - Kharagpur</b>, for providing all the necessary financial aid.<br/>  
 		</p>	
 		
 		<!-- divider -->

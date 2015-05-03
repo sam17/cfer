@@ -1563,10 +1563,10 @@ footer{
   transition: all 4s ease-in-out;
 }
 
-#footer-logo:hover {
-	-webkit-transform: translate(0px, -8px) scale(1.05);
-	transform: translate(0px, -8px) scale(1.05);
-}
+/*#footer-logo:hover {*/
+	/*-webkit-transform: translate(0px, -8px) scale(1.05);*/
+	/*transform: translate(0px, -8px) scale(1.05);*/
+/*}*/
 
 footer a {
 	color:#fff;

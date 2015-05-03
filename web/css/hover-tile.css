@@ -1,6 +1,6 @@
 .grid {
-	padding: 20px 20px 100px 20px;
-	max-width: 1300px;
+	padding: 20px 20px 20px 20px;
+	max-width: 2300px;
 	margin: 0 auto;
 	list-style: none;
 	text-align: center;
@@ -28,13 +28,13 @@
 	top: 0;
 	left: 0;
 	padding: 20px;
-	background: #2c3f52;
+	background: #68A4C4;
 	color: #ed4e6e;
 }
-.grid figcaption h3 {
+.grid figcaption h5 {
 	margin: 0;
 	padding: 0;
-	color: #fff;
+	color: #000;
 }
 
 .grid figcaption span:before {
@@ -43,10 +43,10 @@
 
 .grid figcaption a {
 	text-align: center;
-	padding: 5px 10px;
+	padding: 5px 5px;
 	border-radius: 2px;
 	display: inline-block;
-	background: #ed4e6e;
+	background: #000000;
 	color: #fff;
 }
 @media screen and (max-width: 31.5em) {
@@ -67,7 +67,7 @@
 
 .no-touch .cs-style-3 figure:hover img,
 .cs-style-3 figure.cs-hover img {
-	transform: translateY(-50px);
+	transform: translateY(0px);
 }
 .cs-style-3 figcaption {
 	height: 100px;
