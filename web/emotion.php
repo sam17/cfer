@@ -8,9 +8,7 @@
 			<div class="col-lg-12">
 				<div class="big-cta">
 					<div class="cta-text">
-						<h2>Design and Development of Orthotic Devices for Knee and Hip Joints during
-
-Walking of Disabled Person</h2>
+						<h2>User Emotion Classification from Keyboard Keystroke</h2>
 					</div>
 				</div>
 			</div>
