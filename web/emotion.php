@@ -8,7 +8,7 @@
 			<div class="col-lg-12">
 				<div class="big-cta">
 					<div class="cta-text">
-						<h2>User Emotion Classification from Keyboard Keystroke</h2>
+					<h2>User Emotion Classification from Keyboard Keystroke</h2>
 					</div>
 				</div>
 			</div>

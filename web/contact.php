@@ -23,7 +23,7 @@
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script><div style="overflow:hidden;height:450px;width:600px;"><div id="gmap_canvas" style="height:450px;width:600px;"></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style><a class="google-map-code" href="http://premium-wordpress-themes.org" id="get-map-data">http://premium-wordpress-themes.org</a></div><script type="text/javascript"> function init_map(){var myOptions = {zoom:18,center:new google.maps.LatLng(22.318792361539572,87.31278013372958),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(22.318792361539572, 87.31278013372958)});infowindow = new google.maps.InfoWindow({content:"<b>IIT Kharagpur</b><br/>Mechanical Engineering Department<br/>721302 Kharagpur" });google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
 </td>
 <td style="padding-left: 40px;">
-<div style="float:right;margin-right:0px;" > 
+<div style="float:right;margin-right:-10px;" > 
 <b>Name :</b> Prof D.K.Pratihar<br/>
 <b>Designation :</b> Overall Coordinator, Centre for Excellence in Robotics<br/>
 <b>Address :</b><br/>Mechanical Engineering Department,<br/>

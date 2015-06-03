@@ -22,6 +22,27 @@
 	
 
 	</section>
+	 <!-- <br/> -->
+		<section id="content" style="margin-top:-30px;width:1100px;margin-left:182px;">
+			 <div class="container" style="width:1100px;">
+			  <div id="wrapper1" >
+			<div class="first">
+				<dl id="ticker-1">
+					<!--<dt>News ticker</dt>-->
+						<dd>A news ticker (sometimes referred to as a &quot;crawler&quot;) resides in the lower third of the television screen space on television news networks dedicated to presenting headlines or minor pieces of news.</dd>
+	
+					<!--<dt>Scoreboard style</dt>-->
+						<dd>It may also refer to a long, thin scoreboard-style display seen around the front of some offices or public buildings.</dd>
+	
+					<!--<dt>WWW</dt>-->
+						<dd>Since the growth in usage of the World Wide Web, news tickers have largely syndicated news posts from the websites of the broadcasting services which produce the broadcasts.</dd>
+				</dl>
+			</div>
+			
+		</div>
+    </div>
+    </section> <br/>
+    <br/>
 	<section class="callaction">
 	<div class="container">
 		<div class="row">
@@ -40,7 +61,7 @@
 		<p class="lead">
 		<b>The Centre for Excellence in Robotics, Indian Institute of Technology Kharagpur, India</b>, is an umbrella body, under the aegis of which, all robotics-related activities of the Institute will be conducted and coordinated. This centre is the initiative of <b>Professor Partha Pratim Chakrabarti, the Director of IIT Kharagpur</b>.<br>
 	     <br>The main emphasis of the centre is the design and development of intelligent and autonomous robots. The vision behind it is to promote and encourage student activities, research projects, and relevant courses related to this field. Besides the students, a large number of faculty members from various departments have joined this centre.<br/>
-	    <br/>Centre for Excellence in Robotics would like to thank <b>Sponsored Research and Industrial Consultancy,IIT - Kharagpur</b>, for providing all the necessary financial aid.<br/>  
+	    <br/> Finally Centre for Excellence in Robotics would like to thank <b>Sponsored Research and Industrial Consultancy,IIT - Kharagpur</b>, for providing all the necessary financial aid.<br/>  
 		</p>	
 		
 		<!-- divider -->
@@ -53,40 +74,6 @@
 	</div>
 		</section>
 		<!-- end divider -->
-		<!-- Portfolio Projects -->
-		<section class="callaction">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="big-cta">
-					<div class="cta-text">
-						<h2><span>N</span>ews <span>T</span>icker </h2>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	</section>
- <!-- <br/> -->
-		<section id="content">
-			 <div class="container">
-			  <div id="wrapper1" >
-			<div class="first">
-				<dl id="ticker-1">
-					<!--<dt>News ticker</dt>-->
-						<dd>A news ticker (sometimes referred to as a &quot;crawler&quot;) resides in the lower third of the television screen space on television news networks dedicated to presenting headlines or minor pieces of news.</dd>
-	
-					<!--<dt>Scoreboard style</dt>-->
-						<dd>It may also refer to a long, thin scoreboard-style display seen around the front of some offices or public buildings.</dd>
-	
-					<!--<dt>WWW</dt>-->
-						<dd>Since the growth in usage of the World Wide Web, news tickers have largely syndicated news posts from the websites of the broadcasting services which produce the broadcasts.</dd>
-				</dl>
-			</div>
-			
-		</div>
-    </div>
-    </section>
 </div>
 <br/>
 <br/>
@@ -109,7 +96,7 @@
                     pauseOnHover: 'immediate'
                 };
                 $('#ticker-1').carouFredSel({
-                    width: 1000,
+                    width: 950,
                     align: false,
                     items: {
                         width: 'variable',
@@ -120,7 +107,7 @@
                 });
 
                 $('#ticker-2').carouFredSel({
-                    width: 1000,
+                    width: 950,
                     align: false,
                     circular: false,
                     items: {

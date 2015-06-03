@@ -110,6 +110,7 @@ img.img-polaroid {
 
 header .navbar {
     margin-bottom: 0;
+    
 }
 
 .navbar-default {
@@ -166,7 +167,7 @@ header .navbar-default .navbar-nav > .open > a:focus {
 
 
 header .navbar {
-    min-height: 100px;
+    height: 80px;
 }
 
 header .navbar-nav > li  {
@@ -350,7 +351,7 @@ ul.nav li.dropdown a {
 ==================================== */
 section.callaction {
 	background:#f9f9f9;
-	padding:50px 0 0 0;
+	padding:30px 0 0 0;
 }
 
 
@@ -1538,9 +1539,13 @@ ul.time-post li.time{
 ================================ */
 
 footer{
-	padding:35px 0 0 0;
+	padding:5px 0 0 0;
 	color:#f8f8f8;
 	margin-top: 25px;
+	max-height:90px;
+	min-width: 100%;
+	position: relative;
+	bottom: 0;
 }
 #footer-rght{
 	float:right;

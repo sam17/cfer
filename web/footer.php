@@ -1,12 +1,12 @@
 
 <footer>
-	<div class="container">
-	<div id="footer-logo"><a href="http://iitkgp.ac.in">
+	<div class="container" >
+	<div id="footer-logo" style="margin-bottom:10px;"><a href="http://iitkgp.ac.in">
 	   <img src="img/iit+logo+white.png" height:50px width:50px id="footer-img" />
         Indian Institute of Technology Kharagpur.</a>	  
 	</div>
     
-    <div id="footer-rght">
+    <div id="footer-rght" style="margin-bottom:10px;">
       <ul >
       <li>
       <a href="index.php">Home</a>
@@ -50,5 +50,7 @@
 <script src="js/custom.js"></script>
 <script src="http://code.jquery.com/jquery-1.8.2.min.js" type="text/javascript"></script>
 <script src="js/jquery.easing.1.3.js"></script>
+<script src="js/modernizr.custom.js"></script>
+
 </html>
 

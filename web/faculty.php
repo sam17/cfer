@@ -1,6 +1,24 @@
     <?php
       include 'header.php' ;
     ?>
+    <head>
+    	<style>
+    		h6 {
+    			font-size: 14px;
+    			text-align: center;
+    		}
+
+            .grid li {
+                display: inline-block;
+                width: 325px;
+                margin: 0;
+                padding: 20px;
+                text-align: left;
+                position: relative;
+            }
+
+    	</style>
+    </head>
     <section class="callaction">
 	<div class="container">
 		<div class="row">
@@ -16,141 +34,134 @@
 	</section>
 	
 	<section id="content">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="clearfix">
-				</div>
-				<div class="row">
-					<section id="projects">
-					<ul id="thumbs" class="portfolio">
-						<!-- Item Project and Filter Name -->
-						<li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="web">
-						<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-						<!-- <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Prof. Partha Pratim Chakrabarti" href="img/faculty/ppc.jpg">
-						<span class="overlay-img"></span>
-						<span class="overlay-img-thumb font-icon-plus"></span>
-						</a> -->
-						<!-- Thumb Image and Description --><a href='http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=ZZmVV' target='_blank'>
-						<img src="img/faculty/ppc.jpg"  style="height:250px;" alt="<b>RESEARCH INTRESTS:</b><br/> CAD for VLSI and Embedded Systems,Artificial Intelligence,Design of Algorithms.<br/>INSTITUTE LINK</a>"></a>
-						<p><b>Prof P.P. Chakrabarti</b></p>
+		<div class="container">
+			  <ul class="grid cs-style-4">
+               
+                <li>
+                <figure>
+                <div class="panel"><img src="img/faculty/ppc.jpg" alt="img05" height="300" ><h6>Prof P.P. Chakrabarti</h6></div>
+                <figcaption>
+                <span>
+                <b>DEPARTMENT :</b><br/> Computer Science Engineering <br/>	
+                <b>PROJECTS :</b>  User Emotion Classification from Keyboard Keystroke </span><br/>
+                <a  href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=ZZmVV" target="_blank">Institute Link</a>
+                </figcaption>
+                </figure>
+                </li>
 
-						<li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="web">
-						<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-						<!-- <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Prof. C.S.Kumar" href="img/faculty/csk.jpg">
-						<span class="overlay-img"></span>
-						<span class="overlay-img-thumb font-icon-plus"></span>
-						</a> -->
-						<!-- Thumb Image and Description --><a href='http://iitkgp.ac.in/fac-profiles/showprofile.php?empcode=aWmdU' target='_blank'>
-						<img src="img/faculty/csk.jpg" style="height:250px;" alt="<b>RESEARCH INTRESTS:</b><br/>Robotics and Intelligent Systems,Additive Manufacturing,Control Systems<br/>INSTITUTE LINK</a>"></a>
-						<p><b>Prof C.S Kumar</b></p>
-						</li>
+				<li>
+                <figure>
+                <div class="panel"><img src="img/faculty/dc.jpg" alt="" height="300"><h6>Prof D.Chakravarty </h6></div>
+                <figcaption>
+                <span>
+                <b>DEPARTMENT :</b><br/> Mining Engineering <br/>	
+                <b>PROJECTS :</b>  Autonomous Ground Vehicle </span><br/>
+                <a  href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bUmVT" target="_blank">Institute Link</a>
+                </figcaption>
+                </figure>
+                </li>
 
-						<li class="item-thumbs col-lg-3 photography" data-id="id-2" data-type="graphic">
-						<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-						<!-- <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Prof. D.Chakravarty" href="img/faculty/dc.jpg">
-						<span class="overlay-img"></span>
-						<span class="overlay-img-thumb font-icon-plus"></span>
-						</a> -->
-						<!-- Thumb Image and Description --><a href='http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bUmVT' target='_blank'>
-						<img src="img/faculty/dc.jpg"	style="height:250px;" alt="<b>RESEARCH INTRESTS:</b><br/>Mine Mapping and Locational Survelliance using Digital Photogrammetry,GeoResource Exploitation using Geoinformatics and GPS & GIS <br/>INSTITUTE LINK</a>"></a>
+                <li>
+                <figure>
+                <div class="panel"><img src="img/faculty/dkpratihar.jpg" alt=""height="300" ><h6>Prof D.K. Pratihar</h6></div>
+                <figcaption>
+                <span>
+                <b>DEPARTMENT :</b><br/> Mechanical Engineering <br/>	
+                <b>PROJECTS :</b>  User Emotion Classification from Keyboard Keystroke,Autonomous Aerial Navigation,Design and Development of Orthotic Devices for Knee and Hip Joints  </span>
+                <a  href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bUmdQ" target="_blank">Institute Link</a>
+                </figcaption>
+                </figure>
+                </li>
 
-						<p><b>Prof D Chakravarty </b></p>
-						</li>
+                <li>
+                <figure>
+                <div class="panel"><img src="img/faculty/csk.jpg" alt="" height="300"><h6>Prof C.S Kumar</h6></div>
+                <figcaption>
+                <span>
+                <b>DEPARTMENT :</b><br/> Mechanical Engineering <br/>	
+                <b>PROJECTS  :</b>  Autonomous Underwater Vehicle, Research in Humanoid Robotics </span><br/>
+                <a  href="http://iitkgp.ac.in/fac-profiles/showprofile.php?empcode=aWmdU" target="_blank">Institute Link</a>
+                </figcaption>
+                </figure>
+                </li>
 
-						<li class="item-thumbs col-lg-3 photography" data-id="id-4" data-type="web">
-						<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-						<!-- <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Prof.D.K. Pratihar" href="img/faculty/dkpratihar.jpg">
-						<span class="overlay-img"></span>
-						<span class="overlay-img-thumb font-icon-plus"></span>
-						</a> -->
-						<!-- Thumb Image and Description --><a href='http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bUmdQ' target='_blank'>
-						<img src="img/faculty/dkpratihar.jpg" style="height:250px;" alt="<b>RESEARCH INTRESTS:</b><br/>Robotics,Soft Computing,Manufacturing Science<br/>INSTITUTE LINK</a>"></a>
-						<p><b>Prof D.K. Pratihar</b></p>
-						</li>
+                <li>
+                <figure>
+                <div class="panel"><img src="img/faculty/pdas.jpg" alt="" height="300"><h6>Prof P. Dasgupta</h6></div>
+                <figcaption>
+                <span>
+                <b>DEPARTMENT :</b><br/> Computer Science Engineering<br/>	
+                <b>PROJECTS :</b>  Decentralized Terrain Exploration with Robot Swarms </span><br/>
+                <a  href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=aWmVT" target="_blank">Institute Link</a>
+                </figcaption>
+                </figure>
+                </li>
 
-						</li>
-						<!-- End Item Project -->
-						<!-- Item Project and Filter Name -->
-						<li class="item-thumbs col-lg-3 design" data-id="id-1" data-type="icon">
-						<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-						<!-- <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Prof. J.Mukhopadhyay" href="img/faculty/jm.jpg" >
-						<span class="overlay-img"></span>
-						<span class="overlay-img-thumb font-icon-plus"></span>
-						</a> -->
-						<!-- Thumb Image and Description --><a href='http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=abmYX' target='_blank'>
-						<img src="img/faculty/jm.jpg"	style="height:250px;" alt="<b>RESEARCH INTRESTS:</b><br/> Image processing,Medical Informatics,Bio-Informatics<br/><b>INSTITUTE LINK</a>"></a>
-						<p><b>Prof J.Mukopadhyay</b></p>
-						</li>
+                <li>
+                <figure>
+                <div class="panel"><img src="img/faculty/jm.jpg" alt="" height="300" ><h6>Prof J.Mukopadhyay</h6></div>
+                <figcaption>
+                <span>
+                <b>DEPARTMENT :</b><br/> Computer Science Engineering<br/>	
+                <b>PROJECTS  :</b>  Autonomous Aerial Navigation,KRSSG,Robot as a Social Assistant,Robotic Framework for exploring rugged and potentially hazardous terrain  </span>
+                <a  href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=abmYX" target="_blank">Institute Link</a>
+                </figcaption>
+                </figure>
+                </li>
 
-						<li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="graphic">
-						<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-						<!-- <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Prof. P Dasgupta" href="img/faculty/pdas.jpg">
-						<span class="overlay-img"></span>
-						<span class="overlay-img-thumb font-icon-plus"></span>
-						</a> -->
-						<!-- Thumb Image and Description --><a href='http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=aWmVT' target='_blank'>
-						<img src="img/faculty/pdas.jpg" style="height:250px;"	alt="<b>RESEARCH INTRESTS:</b><br/>Formal Verification of Integrated Circuits and Dynamical Systems,Artificial Intelligence<br/><INSTITUTE LINK</a>"></a>
-						<p><b>Prof P. Dasgupta</b></p>
-						</li>
+                <li>
+                <figure>
+                <div class="panel"><img src="img/faculty/sgupta.jpg" alt="img05" height="300"><h6>Prof. Sanjay Gupta</h6></div>
+                <figcaption>
+                <span>
+                <b>DEPARTMENT :</b><br/> Mechanical Engineering <br/>	
+                <b>PROJECTS  :</b>  Design and Development of Orthotic Devices for Knee and Hip Joints  </span><br/>
+                <a  href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bXmUQ" target="_blank">Institute Link</a>
+                </figcaption>
+                </figure>
+                </li>
 
-						
+                <li>
+                <figure>
+                <div class="panel"><img src="img/faculty/sdeb.jpg" alt="" height="300"><h6>Prof S. Deb</h6></div>
+                <figcaption>
+                <span>
+                <b>DEPARTMENT :</b><br/> Mechanical Engineering <br/>	
+                <b>PROJECTS  :</b>  Robotics for Advanced Manufacturing Applications </span><br/>
+                <a  href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bZmXZ" target="_blank">Institute Link</a>
+                </figcaption>
+                </figure>
+                </li>
 
-						<li class="item-thumbs col-lg-3 photography" data-id="id-5" data-type="icon">
-						<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-						<!-- <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Prof. Sanjay Gupta" href="img/faculty/sgupta.jpg">
-						<span class="overlay-img"></span>
-						<span class="overlay-img-thumb font-icon-plus"></span>
-						</a> -->
-						<!-- Thumb Image and Description --><a href='http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bXmUQ' target='_blank'>
-						<img src="img/faculty/sgupta.jpg" style="height:250px;" alt="<b>RESEARCH INTRESTS:</b><br/>Biomechanics,Finite Element Analysis,Machine Design<br/><br/><INSTITUTE LINK</a>"></a>
-						<p><b>Prof Sanjay Gupta</b></p>
-						</li>
+                <li>
+                <figure>
+                <div class="panel"><img src="img/faculty/smsh.jpg" alt="img05" height="300"><h6>Prof Somesh Kumar</h6></div>
+                <figcaption>
+                <span>
+                <b>DEPARTMENT :</b><br/>Mathematics Department<br/>	
+                <b>PROJECTS  :</b>  Decentralized Terrain Exploration with Robot Swarms,Autonomous Aerial Navigation </span><br/>
+                <a  href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=aVmWZ" target="_blank">Institute Link</a>
+                </figcaption>
+                </figure>
+                </li>
 
-						<li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="web">
-						<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-						<!-- <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Prof. S.Deb" href="img/faculty/sdeb.jpg">
-						<span class="overlay-img"></span>
-						<span class="overlay-img-thumb font-icon-plus"></span>
-						</a> -->
-						<!-- Thumb Image and Description -->
-						<a href='http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bZmXZ' target='_blank'>
-						<img src="img/faculty/sdeb.jpg" 	style="height:250px;" alt="<b>RESEARCH INTRESTS:</b><br/>Computer Integrated Manufacturing,Flexible Manufacturing Systems,Automation and Robotics,Intelligent Manufacturing Systems<br/>"></a>
-						<p><b>Prof S. Deb</b></p>
-						</li>
-
-						<li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="graphic">
-						<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-						<!-- <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Prof. Somesh Kumar" href="img/faculty/smsh.jpg">
-						<span class="overlay-img"></span>
-						<span class="overlay-img-thumb font-icon-plus"></span>
-						</a> -->
-						<!-- Thumb Image and Description --><a href='http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=aVmWZ' target='_blank'>
-						<img src="img/faculty/smsh.jpg" style="height:250px;" alt="<b>RESEARCH INTRESTS:</b><br/>Statistical Decision Theory,Estimation Theory,Quantum Information and Computation,Statistical Data Analysis<br/>INSTITUTE LINK"></a>
-						<p><b>Prof Somesh Kumar</b></p>
-
-
-						<li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="graphic">
-						<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-						<!-- <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Prof. Somesh Kumar" href="img/faculty/smsh.jpg">
-						<span class="overlay-img"></span>
-						<span class="overlay-img-thumb font-icon-plus"></span>
-						</a> -->
-						<!-- Thumb Image and Description --><a href='http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bYmVY' target='_blank'>
-						<img src="img/faculty/mmanj.jpg" style="height:250px;" alt=""></a>
-						<p><b>Prof M Manjunatha </b></p>
-						</li>
-
-					</ul>
-					</section>
-				</div>
-			</div>
-		</div>
-	</div>
+                <li>
+                <figure>
+                <div class="panel"><img src="img/faculty/mmanj.jpg" alt="" height="300"><h6>Prof M Manjunatha</h6></div>
+                <figcaption>
+                <span>
+                <b>DEPARTMENT :</b><br/> Medical Science &amp Technology <br/>	
+                <b>PROJECTS  :</b>  Biomedical Robotics for neuro-controlled prosthesis </span><br/>
+                <a  href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bYmVY" target="_blank">Institute Link</a>
+                </figcaption>
+                </figure>
+                </li>
+              
+		</div>	
 	</section>
+	
 	<?php 
-	include 'footer.php';
-
+		include 'footer.php';
 	?>
 </body>
 </html> 
