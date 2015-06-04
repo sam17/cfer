@@ -79,7 +79,7 @@
 	-webkit-transform: translate(15px, 15px);
 	-moz-transform: translate(15px, 15px);
 	-ms-transform: translate(15px, 15px);
-	transform: translate(15px, 15px);
+	transform: translate(0px, 35px);
 }
 
 .cs-style-1 figcaption h3 {
