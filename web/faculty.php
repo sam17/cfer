@@ -43,8 +43,8 @@
                 <figcaption>
                 <span>
                 <b>DEPARTMENT :</b><br/> Computer Science Engineering <br/>	
-                <b>PROJECTS :</b>  User Emotion Classification from Keyboard Keystroke </span><br/>
-                <a  href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=ZZmVV" target="_blank">Institute Link</a>
+                <b>PROJECTS :</b><br><a href="emotion.php">Emotion Classification from Keyboard Keystroke </a></span><br/>
+                <a  id = "insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=ZZmVV" target="_blank">Institute Link</a>
                 </figcaption>
                 </figure>
                 </li>
@@ -55,8 +55,8 @@
                 <figcaption>
                 <span>
                 <b>DEPARTMENT :</b><br/> Mining Engineering <br/>	
-                <b>PROJECTS :</b>  Autonomous Ground Vehicle </span><br/>
-                <a  href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bUmVT" target="_blank">Institute Link</a>
+                <b>PROJECTS :</b><br><a href="agv.php">Autonomous Ground Vehicle </a></span><br/>
+                <a  id = "insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bUmVT" target="_blank">Institute Link</a>
                 </figcaption>
                 </figure>
                 </li>
@@ -67,8 +67,8 @@
                 <figcaption>
                 <span>
                 <b>DEPARTMENT :</b><br/> Mechanical Engineering <br/>	
-                <b>PROJECTS :</b>  User Emotion Classification from Keyboard Keystroke,Autonomous Aerial Navigation,Design and Development of Orthotic Devices for Knee and Hip Joints  </span>
-                <a  href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bUmdQ" target="_blank">Institute Link</a>
+                <b>PROJECTS :</b><br><a href = "emotion.php"> Emotion Classification from Keyboard Keystroke</a> <br><a href="aerial.php"> Autonomous Aerial Navigation</a><br><a href="disabled.php">Design and Development of Orthotic Devices </a> </span>
+                <a  id ="insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bUmdQ" target="_blank">Institute Link</a>
                 </figcaption>
                 </figure>
                 </li>
@@ -79,8 +79,8 @@
                 <figcaption>
                 <span>
                 <b>DEPARTMENT :</b><br/> Mechanical Engineering <br/>	
-                <b>PROJECTS  :</b>  Autonomous Underwater Vehicle, Research in Humanoid Robotics </span><br/>
-                <a  href="http://iitkgp.ac.in/fac-profiles/showprofile.php?empcode=aWmdU" target="_blank">Institute Link</a>
+                <b>PROJECTS  :</b><br><a href="underwater.php">Autonomous Underwater Vehicle</a><br><a href="humanoid.php">Humanoid Robotics </a></span><br/>
+                <a  id = "insti" href="http://iitkgp.ac.in/fac-profiles/showprofile.php?empcode=aWmdU" target="_blank">Institute Link</a>
                 </figcaption>
                 </figure>
                 </li>
@@ -91,8 +91,8 @@
                 <figcaption>
                 <span>
                 <b>DEPARTMENT :</b><br/> Computer Science Engineering<br/>	
-                <b>PROJECTS :</b>  Decentralized Terrain Exploration with Robot Swarms </span><br/>
-                <a  href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=aWmVT" target="_blank">Institute Link</a>
+                <b>PROJECTS:</b><br><a href="terrain_exploration.php">Decentralized Exploration with Robot Swarms</a></span><br/>
+                <a id="insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=aWmVT" target="_blank">Institute Link</a>
                 </figcaption>
                 </figure>
                 </li>
@@ -103,8 +103,8 @@
                 <figcaption>
                 <span>
                 <b>DEPARTMENT :</b><br/> Computer Science Engineering<br/>	
-                <b>PROJECTS  :</b>  Autonomous Aerial Navigation,KRSSG,Robot as a Social Assistant,Robotic Framework for exploring rugged and potentially hazardous terrain  </span>
-                <a  href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=abmYX" target="_blank">Institute Link</a>
+                <b>PROJECTS :</b><br><a href="aerial">Autonomous Aerial Navigation</a><br><a href="krssg.php">KRSSG</a><br><a href="rsa.php">Robot as a Social Assistant</a><br><a href="">Robotic Framework for exploring rugged terrain</a></span>
+                <a id="insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=abmYX" target="_blank">Institute Link</a>
                 </figcaption>
                 </figure>
                 </li>
@@ -115,8 +115,8 @@
                 <figcaption>
                 <span>
                 <b>DEPARTMENT :</b><br/> Mechanical Engineering <br/>	
-                <b>PROJECTS  :</b>  Design and Development of Orthotic Devices for Knee and Hip Joints  </span><br/>
-                <a  href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bXmUQ" target="_blank">Institute Link</a>
+                <b>PROJECTS  :</b><br><a href="disabled.php">Design and Development of Orthotic Devices for Knee and Hip Joints</a></span><br/>
+                <a id="insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bXmUQ" target="_blank">Institute Link</a>
                 </figcaption>
                 </figure>
                 </li>
@@ -127,8 +127,8 @@
                 <figcaption>
                 <span>
                 <b>DEPARTMENT :</b><br/> Mechanical Engineering <br/>	
-                <b>PROJECTS  :</b>  Robotics for Advanced Manufacturing Applications </span><br/>
-                <a  href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bZmXZ" target="_blank">Institute Link</a>
+                <b>PROJECTS  :</b><br><a href="manufacturing.php">Robotics for Advanced Manufacturing Applications</a></span><br/>
+                <a  id ="insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bZmXZ" target="_blank">Institute Link</a>
                 </figcaption>
                 </figure>
                 </li>
@@ -139,8 +139,8 @@
                 <figcaption>
                 <span>
                 <b>DEPARTMENT :</b><br/>Mathematics Department<br/>	
-                <b>PROJECTS  :</b>  Decentralized Terrain Exploration with Robot Swarms,Autonomous Aerial Navigation </span><br/>
-                <a  href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=aVmWZ" target="_blank">Institute Link</a>
+                <b>PROJECTS  :</b><br><a href="terrain_exploration.php">Decentralized Exploration with Robot Swarms</a><br><a href="aerial.php">Autonomous Aerial Navigation</a></span><br/>
+                <a  id = "insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=aVmWZ" target="_blank">Institute Link</a>
                 </figcaption>
                 </figure>
                 </li>
@@ -151,8 +151,8 @@
                 <figcaption>
                 <span>
                 <b>DEPARTMENT :</b><br/> Medical Science &amp Technology <br/>	
-                <b>PROJECTS  :</b>  Biomedical Robotics for neuro-controlled prosthesis </span><br/>
-                <a  href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bYmVY" target="_blank">Institute Link</a>
+                <b>PROJECTS  :</b><br><a href="biomedical.php">Biomedical Robotics for neuro-controlled prosthesis</a></span><br/>
+                <a id="insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bYmVY" target="_blank">Institute Link</a>
                 </figcaption>
                 </figure>
                 </li>
