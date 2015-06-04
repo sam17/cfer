@@ -58,6 +58,10 @@ incorporate intelligence and flexibility in the device will also be carried out.
 Experimental validation of the orthotic devices during a normal walking cycle will be 
 
 achieved.
+	 <br><br>
+	 	 <b>Faculty Involved:</b><br>
+	 D.K.Pratihar (PI) <br>
+	 S.Gupta
 </div>
 <br/>
 <br/>

@@ -40,6 +40,11 @@ for prosthetic limb and rehabilitation aid such as exoskeleton and Study of
 Electroencephalogram (EEG) and sEMG based control interface for bionics limbs 
 
 and rehabilitation aids.</b>
+	 <br><br>
+	 <b>Faculty Involved:</b><br>
+	 M.Manjunatha (PI) <br>
+	 C.S.Kumar
+	 
 </div>
 <br/>
 <br/>

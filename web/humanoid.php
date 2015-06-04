@@ -40,6 +40,10 @@ foot placement algorithm;<b> Mechatronic system</b>, which involves the developm
 robust mechanical system that can handle a wide range of environments and perform jobs 
 
 like picking, throwing, swinging.
+										   <br><br>
+  <b>Faculty Involved:</b><br>
+	 C.S.Kumar (PI) <br>
+	 M.Manjunatha
 </div><br/>
 <br/>
 <?php
