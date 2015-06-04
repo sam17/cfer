@@ -23,7 +23,7 @@
                 <figure>
               <div class="panel"> <img src="img/groups/quad.jpeg" height="200px"><h6><center>Autonomous Aerial Navigation</center</h6></div>
                 <figcaption>
-                <spa>n
+                <span>
                     <b> Abstract :</b><p>
 					<em>
 		               Design autonomous aerial vehicles which can navigate outdoor and indoor in unknown environment. 
