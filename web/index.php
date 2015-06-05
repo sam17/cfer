@@ -23,7 +23,7 @@
 
 	</section>
 	 <!-- <br/> -->
-		<section id="content" style="margin-top:-30px;width:1100px;margin-left:182px;">
+		<section id="content" style="margin-top:-30px;width:1100px;margin-left:8%;">
 			 <div class="container" style="width:1100px;">
 			  <div id="wrapper1" >
 			<div class="first">

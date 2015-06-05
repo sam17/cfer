@@ -45,11 +45,6 @@ consecutive keys.</li>
 
 cam.</li>
 </ul>
-
-<br><br>
-	 <b>Faculty Involved:</b><br>
-	 P.P.Chakrabarti (PI) <br>
-	 D.K.Pratihar
 </div>
 <br/>
 <br/>

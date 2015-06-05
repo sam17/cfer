@@ -127,6 +127,20 @@ Walking of Disabled Person</center></h6></div>
                 </figure>
                 </li>
 
+<li>
+                <figure>
+              <div class="panel"> <img src="img/groups/404.jpg" height="200px"><h6><center>Robotic Framework for exploring rugged terrain</center></h6></div>
+                <figcaption>
+                <span>
+                    <b> Abstract :</b><p>
+                    <em>
+                        This project has got a potential benefits in exploration of a rugged terrain where Human  fails in maneuvering due to the instability of their body dynamics as well as in reaching  hazardous places
+                        </em>
+                </span><br/>
+                <a  id="insti" href="hazardous.php" target="_blank">LINK</a>
+                </figcaption>
+                </figure>
+                </li>
  <li>
                 <figure>
               <div class="panel"> <center><img src="img/groups/REC.jpg" height="200px"></center><h6><center>Robotics for Advanced Manufacturing Applications</center></h6></div>

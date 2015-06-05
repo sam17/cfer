@@ -47,13 +47,7 @@ communication; Development of accurate underwater simulator for robotics
 
 application; 3D-SLAM (Simultaneous localization and mapping) of autonomous 
 
-underwater vehicles using Sonar and Vision.</b>
-<br><br>
-	 <b>Faculty Involved:</b><br>
-	 C.S. Kumar (PI) <br>
-	 V. Racherla<br>
-	 V. Nagarajan
-			  </div>
+underwater vehicles using Sonar and Vision.</b></div>
 <br/>
 <br/>
 <?php

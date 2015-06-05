@@ -47,13 +47,7 @@ being developed on controlling the humanoid to the Soccer playing strategy.
 
 which can play soccer.</li>
 </ul>
-<br><br>
-	 <b>Faculty Involved:</b><br>
-	 Jayanta Mukhopadhyay (PI) <br>
-	 Sudeshna Sarkar<br>
-	 Alok Kanti Deb <br>
-	 D.K.Pratihar
-	 
+
 <br/>
 <br/>
 <p>Link to Page: <a href="http://krssg.in/">LINK</a></p>

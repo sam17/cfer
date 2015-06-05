@@ -38,13 +38,7 @@ several applications in the fields of surveillance, 3D environment mapping and f
 applications which can be achieved using a team of such robots. The long term goals 
 
 include developing our own carbon fibre prototype, with custom built PCBs.
-<br><br>
-	 
-	 <b>Faculty Involved:</b><br>
-	 Somesh Kumar (PI) <br>
-	 Jayanta Mukhopadhyay<br>
-	 D.K.Pratihar
-	 
+
 </br>
 </br>
 <p>Link to Page: <a href="http://quadrotor-iitkgp.github.io/">LINK</a></p>

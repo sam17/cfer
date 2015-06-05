@@ -34,9 +34,6 @@ sensors to guide the robot during assembly. Further, multi-finger robot grippers
 developed with various types of tactile and non-tactile sensors to augment their sensory 
 
 capabilities and provide guidance in grasping and manipulation.
-	 <br><br>
-	 	 <b>Faculty Involved:</b><br>
-	 S Deb (PI) 
 </div>
 <br/>
 <br/>

@@ -103,7 +103,7 @@
                 <figcaption>
                 <span>
                 <b>DEPARTMENT :</b><br/> Computer Science Engineering<br/>	
-                <b>PROJECTS :</b><br><a href="aerial">Autonomous Aerial Navigation</a><br><a href="krssg.php">KRSSG</a><br><a href="rsa.php">Robot as a Social Assistant</a><br><a href="">Robotic Framework for exploring rugged terrain</a></span>
+                <b>PROJECTS :</b><br><a href="aerial">Autonomous Aerial Navigation</a><br><a href="krssg.php">KRSSG</a><br><a href="rsa.php">Robot as a Social Assistant</a><br><a href="hazardous.php">Robotic Framework for exploring rugged terrain</a></span>
                 <a id="insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=abmYX" target="_blank">Institute Link</a>
                 </figcaption>
                 </figure>
@@ -156,7 +156,114 @@
                 </figcaption>
                 </figure>
                 </li>
-              
+                
+                <li>
+                <figure>
+                <div class="panel"><img src="img/faculty/sarkar.jpg" alt="" height="300"><h6>Prof. S. Sarkar</h6></div>
+                <figcaption>
+                <span>
+                <b>DEPARTMENT :</b><br/> Computer Science Engineering<br/>  
+                <b>PROJECTS  :</b><br><a href="krssg.php">KRSSG</a></span><br/>
+                <a id="insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=aZmWS" target="_blank">Institute Link</a>
+                </figcaption>
+                </figure>
+                </li>
+
+                <li>
+                <figure>
+                <div class="panel"><img src="img/faculty/akdeb.jpg" alt="" height="300"><h6>Prof. A.K. Deb</h6></div>
+                <figcaption>
+                <span>
+                <b>DEPARTMENT :</b><br/> Electrical Engineering <br/>  
+                <b>PROJECTS  :</b><br><a href="krssg.php">KRSSG</a></span><br/><a href="rsa.php">Robot as Social Assistant</a></span><br/><a href="hazardous.php">Robotic Framework for exploring rugged terrain</a></span><br/>
+                <a id="insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bZmVU" target="_blank">Institute Link</a>
+                </figcaption>
+                </figure>
+                </li>
+
+                <li>
+                <figure>
+                <div class="panel"><img src="img/faculty/ks.jpg" alt="" height="300"><h6>Prof. K.S. Rao</h6></div>
+                <figcaption>
+                <span>
+                <b>DEPARTMENT :</b><br/> School of Information Technology <br/>  
+                <b>PROJECTS  :</b><br><a href="rsa.php">Robot as Social Assistant</a></span><br/><a href="hazardous.php">Robotic Framework for exploring rugged terrain</a></span><br/>
+                <a id="insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bYmWU" target="_blank">Institute Link</a>
+                </figcaption>
+                </figure>
+                </li>
+
+                <li>
+                <figure>
+                <div class="panel"><img src="img/faculty/pk.jpg" alt="" height="300"><h6>Prof. P.K. Biswas</h6></div>
+                <figcaption>
+                <span>
+                <b>DEPARTMENT :</b><br/> Electronics & Electrical Communication Engineering<br/>  
+                <!-- <b>PROJECTS  :</b> -->
+                <a id="insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=aSmUX" target="_blank">Institute Link</a>
+                </figcaption>
+                </figure>
+                </li>
+
+                <li>
+                <figure>
+                <div class="panel"><img src="img/faculty/ppdas.jpg" alt="" height="300"><h6>Prof. P.P. Das</h6></div>
+                <figcaption>
+                <span>
+                <b>DEPARTMENT :</b><br/> Computer Science Engineering<br/>  
+                <!-- <b>PROJECTS  :</b><br><a href="biomedical.php">Biomedical Robotics for neuro-controlled prosthesis</a></span><br/> -->
+                <a id="insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SSmUZ" target="_blank">Institute Link</a>
+                </figcaption>
+                </figure>
+                </li>
+
+                <li>
+                <figure>
+                <div class="panel"><img src="img/faculty/bhowmik.jpg" alt="" height="300"><h6>Prof. P. Bhowmick</h6></div>
+                <figcaption>
+                <span>
+                <b>DEPARTMENT :</b><br/> Computer Science Engineering<br/>  
+                <!-- <b>PROJECTS  :</b><br><a href="biomedical.php">Biomedical Robotics for neuro-controlled prosthesis</a></span><br/> -->
+                <a id="insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bZmVR" target="_blank">Institute Link</a>
+                </figcaption>
+                </figure>
+                </li>
+
+                <li>
+                <figure>
+                <div class="panel"><img src="img/faculty/racherla.jpg" alt="" height="300"><h6>Prof. V. Racherla</h6></div>
+                <figcaption>
+                <span>
+                <b>DEPARTMENT :</b><br/> Mechanical Engineering <br/>  
+                <b>PROJECTS  :</b><br><a href="auv.php">Research on Underwater Robotics (A.U.V)</a></span><br/>
+                <a id="insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bamdS" target="_blank">Institute Link</a>
+                </figcaption>
+                </figure>
+                </li>
+
+                <li>
+                <figure>
+                <div class="panel"><img src="img/faculty/nagarjan.jpg" alt="" height="300"><h6>Prof. V. Nagarajan </h6></div>
+                <figcaption>
+                <span>
+                <b>DEPARTMENT :</b><br/>Ocean &amp Naval Architecture <br/>  
+                <b>PROJECTS  :</b><br><a href="auv.php">Research on Underwater Robotics (A.U.V)</a></span><br/>
+                <a id="insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SbmdQ" target="_blank">Institute Link</a>
+                </figcaption>
+                </figure>
+                </li>
+
+                <li>
+                <figure>
+                <div class="panel"><img src="img/faculty/jacob.jpg" alt="" height="300"><h6>Prof. C. Jacob</h6></div>
+                <figcaption>
+                <span>
+                <b>DEPARTMENT :</b><br/> Material Science <br/>  
+                <!-- <b>PROJECTS  :</b><br><a href="biomedical.php">Biomedical Robotics for neuro-controlled prosthesis</a></span><br/> -->
+                <a id="insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bSmdQ" target="_blank">Institute Link</a>
+                </figcaption>
+                </figure>
+                </li>
 		</div>	
 	</section>
 	
