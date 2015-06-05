@@ -32,7 +32,11 @@ a major contemporary field of application and research in institutes around the 
 to mention a vastly untapped one in India. The potential for use in the industry as well as 
 
 for non-commercial purposes is great.
-
+<br><br>
+	 
+	 <b>Faculty Involved:</b><br>
+	 Somesh Kumar (PI) <br>
+	 Pallab Dasgupta
 <br/>
 <br/>
 <p>Link to Page: <a href="http://swarm-iitkgp.github.io/">LINK</a></p>

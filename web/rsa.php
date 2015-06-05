@@ -66,6 +66,12 @@ intelligently select actions, and reduce the number of examples avoiding separat
 and execution phases. This will reduce the volume of the learning data set and at the 
 
 same time resulting in higher autonomy.
+	 <br><br>
+	 	 <b>Faculty Involved:</b><br>
+	 Jayanta Mukhopadhyay (PI) <br>
+	 Alok kanti Deb<br>
+K.S Rao
+	 
 </div>
 <br/>
 <br/>
