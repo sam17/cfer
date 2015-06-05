@@ -235,7 +235,7 @@
                 <figcaption>
                 <span>
                 <b>DEPARTMENT :</b><br/> Mechanical Engineering <br/>  
-                <b>PROJECTS  :</b><br><a href="auv.php">Research on Underwater Robotics (A.U.V)</a></span><br/>
+                <b>PROJECTS  :</b><br><a href="underwater.php">Autonomous underwater vehicle</a></span><br/>
                 <a id="insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bamdS" target="_blank">Institute Link</a>
                 </figcaption>
                 </figure>
@@ -247,7 +247,7 @@
                 <figcaption>
                 <span>
                 <b>DEPARTMENT :</b><br/>Ocean &amp Naval Architecture <br/>  
-                <b>PROJECTS  :</b><br><a href="auv.php">Research on Underwater Robotics (A.U.V)</a></span><br/>
+                <b>PROJECTS  :</b><br><a href="underwater.php">Autonomous underwater vehicle</a></span><br/>
                 <a id="insti" href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=SbmdQ" target="_blank">Institute Link</a>
                 </figcaption>
                 </figure>
