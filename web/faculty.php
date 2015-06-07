@@ -39,7 +39,7 @@
                
                 <li>
                 <figure>
-                <div class="panel"><img src="img/faculty/ppc.jpg" alt="img05" height="300" ><h6>Prof P.P. Chakrabarti</h6></div>
+                <div class="panel"><img src="img/faculty/ppc.jpg" alt="img05" height="300" ><h6><center>Prof P.P. Chakrabarti</center</h6></div>
                 <figcaption>
                 <span>
                 <b>DEPARTMENT :</b><br/> Computer Science Engineering <br/>	
@@ -63,7 +63,7 @@
 
                 <li>
                 <figure>
-                <div class="panel"><img src="img/faculty/dkpratihar.jpg" alt=""height="300" ><h6>Prof D.K. Pratihar</h6></div>
+                <div class="panel"><img src="img/faculty/dkpratihar.jpg" alt=""height="300" ><h6><center>Prof D.K. Pratihar</center></h6></div>
                 <figcaption>
                 <span>
                 <b>DEPARTMENT :</b><br/> Mechanical Engineering <br/>	
@@ -243,7 +243,7 @@
 
                 <li>
                 <figure>
-                <div class="panel"><img src="img/faculty/nagarjan.jpg" alt="" height="300"><h6>Prof. V. Nagarajan </h6></div>
+                <div class="panel"><img src="img/faculty/nagarjan.jpg" alt="" height="300"><h6><center>Prof. V. Nagarajan </center></h6></div>
                 <figcaption>
                 <span>
                 <b>DEPARTMENT :</b><br/>Ocean &amp Naval Architecture <br/>  
