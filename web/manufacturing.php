@@ -36,8 +36,11 @@ developed with various types of tactile and non-tactile sensors to augment their
 capabilities and provide guidance in grasping and manipulation.
 	 <br><br>
 	 	 <b>Faculty Involved:</b><br>
-	 S Deb (PI) 
-</div>
+	 S Deb (PI)
+
+	 <br><br>
+<p>Link to Page: <a href="http://www.facweb.iitkgp.ernet.in/~sankhadeb/robotics.html">LINK</a></p>
+	 </div>
 <br/>
 <br/>
 <?php
