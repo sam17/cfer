@@ -20,7 +20,7 @@
 	<div class="container">
 		<p style="text-align:center;padding-bottom: 10px;">
 			<a href="http://robotix.in/				">
-				<img src="http://www.robotix.in/Images/rbtx.png">
+				<img src="http://www.robotix.in/img/sprites/logo.png">
 			</a>
 		</p>
 		<p class="lead">
