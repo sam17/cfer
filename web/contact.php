@@ -25,12 +25,21 @@
 <td style="padding-left: 40px;">
 <div style="float:right;margin-right:-10px;" > 
 <b>Name :</b> Prof D.K.Pratihar<br/>
-<b>Designation :</b> Overall Coordinator, Centre for Excellence in Robotics<br/>
+Overall Coordinator, Centre for Excellence in Robotics<br/>
 <b>Address :</b><br/>Mechanical Engineering Department,<br/>
 				 IIT Campus,<br/>
 				 Kharagpur (W.B)<br/>
 				 721302<br/> 
-<b>Email :</b> dkpra@mech.iitkgp.ernet.in<br/>
+<b>Email :</b> dkpra[at]mech.iitkgp.ernet.in<br/><br/>
+<b> Student Contacts: </b><br/>
+<b>Name :</b> Atal Ashutosh Agarwal<br/>
+</b> Vice President, Technology Students Gymkhana<br/>
+<b>Email :</b> atalashutosh[at]gmail.com <br/>
+<b>Ph. No:</b> 9002296766  <br/><br/>
+
+<b>Name :</b> Soumyadeep Mukherjee<br/>
+<b>Email :</b> soumyadeep.mukherjee[at]iikgp.ac.in <br/>
+<b>Ph. No:</b> 7407651462 <br/>
 </div>
 </td>
 </tr>
