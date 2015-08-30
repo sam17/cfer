@@ -99,7 +99,7 @@
         <div class="navbar navbar-default navbar-static-top">
             <div class="container" style="width:97%;">
                 <div class="navbar-header">
-                    <!--<img src="nao.jpg" style="float:left;" height="80px" /> -->
+                    <img src="logo.jpg" style="float:left;" height="100px" width="80px"/> 
                     <a class="navbar-brand" href="index.php" style="font-size:30px;">   <span>C</span>entre <span>F</span>or <span>E</span>xcellence <span>I</span>n <span>R</span>obotics</a>
                 </div>
                 <div class="navbar-collapse collapse " style="font-size:42px;">
