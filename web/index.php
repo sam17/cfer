@@ -29,13 +29,13 @@
 			<div class="first">
 				<dl id="ticker-1">
 					<!--<dt>News ticker</dt>-->
-						<dd>A news ticker (sometimes referred to as a &quot;crawler&quot;) resides in the lower third of the television screen space on television news networks dedicated to presenting headlines or minor pieces of news.</dd>
+						<dd>Kharagpur Robosoccer Student's Group won Bronze medal in FIRA Roboworld Cup held in Dajeon, South Korea.</dd>
 	
 					<!--<dt>Scoreboard style</dt>-->
-						<dd>It may also refer to a long, thin scoreboard-style display seen around the front of some offices or public buildings.</dd>
+						<dd>Technology Robotix Society organized a Guest Lecture by Sri Krishna, Development Manager, iRobot with the help of Prof. P.L. Narsimhan, TVS Motors Chair Professor, Industrial & Systems Engineering on 27 August 2015.</dd>
 	
 					<!--<dt>WWW</dt>-->
-						<dd>Since the growth in usage of the World Wide Web, news tickers have largely syndicated news posts from the websites of the broadcasting services which produce the broadcasts.</dd>
+			
 				</dl>
 			</div>
 			
