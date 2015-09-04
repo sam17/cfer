@@ -34,7 +34,7 @@
 				<img src="img/image021.jpg" width="500px;" height="350px;">
 				</td>
 				<td style="padding-left: 20px;">
-					<img src="http://robotix.in/blog/wp-content/uploads/2013/10/3.jpg" width="500px;"  height="350px;">
+					<img src="img/kraig.jpg" width="500px;"  height="350px;">
 				</td>
 				</tr>
 				</table>

@@ -26,7 +26,7 @@
 		</p>
 	</div>
 	<p style="text-align:center;">
-	<img src="http://robotix.in/blog/wp-content/uploads/2014/08/882102_346365192141957_1380647092_o.jpg" width="400px;">
+	<img src="img/wws.jpg" width="400px;">
 	</p>
 </section>		
 

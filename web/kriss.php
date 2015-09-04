@@ -26,7 +26,7 @@
 		</p>
 		<p style="font-size: 20px;">Link To Page: <a href="http://www.robotix.in/page/open/kriss">LINK</a></p>
 		<p style="text-align:center;">
-			<img src="http://robotix.in/blog/wp-content/uploads/2013/08/TRS2.png" width="400px;">
+			<img src="img/kriss.png" width="400px;">
 		</p>
 	</div>
 </section>		
