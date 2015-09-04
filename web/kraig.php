@@ -24,7 +24,9 @@
          KRAIG holds weekly sessions, covering a range of topics related to amateur robotics, from simple locomotion systems, to mechanical contraptions, to sensors and actuators, and finally to micro-controller programming and integration. Along the way, there are competitions and special workshops to give the members an opportunity to test their knowledge. <br/><br/>
          The Fresher’s Robosoccer Challenge is conducted soon after KRAIG commences, and invites students to build simple soccer-playing robots and face-off with each other. Later on in the semester, a day-long workshop is held where students build a simple autonomous robot, such as a line follower. 
 <br/><hr/>
+	<p style="font-size: 20px;">Link To Page: <a href="http://www.robotix.in/kraig/">LINK</a></p>
         </p>
+
     		<div class="row">
 			<<!-- div class="col-lg-12">
 				<div class="solidline" style="text-align:center;"> -->

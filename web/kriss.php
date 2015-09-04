@@ -24,7 +24,7 @@
         Speakers may give talks related to a variety of purposes, like internship reports, presentations of thesis work or other research projects they are involved in, rehearsal talks for upcoming conferences, and even discussions of recent papers that they found interesting and relevant. 
 <br/><hr/>
 		</p>
-		<p style="font-size: 20px;">Link To Page: <a href="http://www.robotix.in/page/open/kriss">LINK</a></p>
+		<p style="font-size: 20px;">Link To Page: <a href="http://www.robotix.in/kriss/">LINK</a></p>
 		<p style="text-align:center;">
 			<img src="img/kriss.png" width="400px;">
 		</p>
