@@ -11,7 +11,7 @@ How to Run on localhost:
 
 
 Contributors:  
-	Web: @sam17 Amey Muley Riya Bubna  
+	Web: [@sam17](https://github.com/sam17) Amey Muley Riya Bubna  
 	Logo: Aniket Padghan
 	
 Add Issues if you find bugs or suggest any changes.
