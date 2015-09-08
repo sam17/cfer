@@ -28,7 +28,7 @@
         </p>
 
     		<div class="row">
-			<<!-- div class="col-lg-12">
+			<!-- div class="col-lg-12">
 				<div class="solidline" style="text-align:center;"> -->
 				<table align="center">
 				<tr>

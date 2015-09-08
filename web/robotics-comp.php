@@ -17,7 +17,7 @@ include 'header.php';
 </section>
 
 <p style="text-align:center;">
-			<img src="http://robotix.in/blog/wp-content/uploads/2014/03/main-banner-.jpg" width="400px;">
+			<img src="img/trs.png" width="400px;">
 		</p>
 <section id="content">
 	<div class="container" style="text-align:justify;">
@@ -40,7 +40,21 @@ include 'header.php';
 				<td align="justify;" width="33%"><img src="img/f3.jpg" width="300px;" height="200px;"></td>
 			</tr>
 		</table>
+		<br>
+		<p class="lead">
+			<span><strong>Code-o-Soccer</strong></span></br></br>
+				Conducted by the Kharagpur Robosoccer Student's Group, the annual AI Design Competition. This is a first of its kind competition wherein soccer strategies brewing within one's mind are implemented on robots using techniques of Artificial Intelligence. </br></br>It is going national for the first time.<br/><hr/>	
+		</p>
+		<p style="font-size: 20px;">Link To Page: <a href="http://event.krssg.in/">LINK</a></p>
+		<br>
+		<table align="center;" width="100%" >
+			<tr>
+				<td align="center"><img src="img/codeosoccer.png" align = "center"></td>
+			</tr>
+		</table>
+		
 	</div>
+
 </section>
 <?php
 include 'footer.php';

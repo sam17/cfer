@@ -20,11 +20,11 @@
 	<div class="container">
 		<p style="text-align:center;padding-bottom: 10px;">
 			<a href="http://robotix.in/				">
-				<img src="http://www.robotix.in/img/sprites/logo.png">
+				<img src="trs.png">
 			</a>
 		</p>
 		<p class="lead">
-		Student activities in IIT Kharagpur has it’s nerve center as Technology Robotix Society which is an official society under the Technology Students' Gymkhana, IIT Kharagpur, and is involved in student activities and projects related to hobby robotics in the campus. They are the group behind the annual competition ROBOTIX, which is held during KSHITIJ at IIT Kharagpur, and is one of the biggest such events in Asia. Another important vision of theirs is to spread the culture of robotics across India and they do this by organizing and conducting workshops and demonstrations at various colleges. They are also responsible for introducing the first year students to the world of robotics, through their initiatives, KRAIG and the Annual Winter Workshop.
+		Student activities in IIT Kharagpur has it’s nerve center as Technology Robotix Society, an official body under <a href="http://www.gymkhana.iitkgp.ernet.in/">Technology Students' Gymkhana, IIT Kharagpur</a>, and is the hub of hobby robotics. They organize the annual competition <a href="http://www.robotix.in">ROBOTIX</a>, which is held during <A href="http://www.ktj.in/">KSHITIJ</a> at IIT Kharagpur, Asia's largest Techno-Managest fest. Another important vision of the society is to spread the culture of robotics across India  for which workshops and demonstrations are conducted in colleges across the country. Being a student run society, they also are the first door to robotics for freshers on campus through KRAIG classes and Annual Winter Workshop.
         </p>
     		<div class="row">
 			<div class="col-lg-12">
