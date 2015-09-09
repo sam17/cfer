@@ -21,7 +21,7 @@
                
                 <li>
                 <figure>
-              <div class="panel" > <center><img src="img/groups/quad.jpg" height="200px" ></center><h6><center>Autonomous Aerial Navigation</center</h6></div>
+              <div class="panel" > <center><img src="img/groups/ark.png" height="200px" ></center><h6><center>Autonomous Aerial Navigation</center</h6></div>
                 <figcaption>
                 <span>
                     <b> Abstract :</b><p>
