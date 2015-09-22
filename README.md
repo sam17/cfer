@@ -1,4 +1,4 @@
-# cfer
+# CFER
 Repository for the website for Centre For Excellence in Robotix of IIT Kharagpur.  
 
 It is hosted on Heroku for prototype testing and sharing [www.cfer.herokuapp.com](http://cfer.herokuapp.com/)  
