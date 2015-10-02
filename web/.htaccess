@@ -1,0 +1,4 @@
+Options +FollowSymlinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST}^cferobotics.iitkgp.ac.in$ [NC]
+RewriteRule ^(.*)$ http://www.cferobotics.iitkgp.ac.in/$1 [R=301,L]

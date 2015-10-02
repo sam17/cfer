@@ -2,6 +2,7 @@
 <?php
   include 'header.php';
 ?>
+	<link rel="image_src" href="http://www.cferobotics.iitkgp.ac.in/logo.jpg" />
 	<section id="featured">
 	<!-- start slider -->
 	<div class="container">
@@ -58,7 +59,7 @@
 		<p class="lead">
 		<b>The Centre for Excellence in Robotics, Indian Institute of Technology Kharagpur, India</b>, is an umbrella body, under the aegis of which, all robotics-related activities of the Institute will be conducted and coordinated.<br>
 	     <br>The main emphasis of the centre is the design and development of intelligent and autonomous robots and work on research problems and innovative projects that extend the state of the art in robotics. The vision behind it is to promote and encourage student activities, research projects, and relevant courses related to this field. Besides the students, a large number of faculty members from various departments are part of this centre.<br/>
-	    <br/> Centre for Excellence in Robotics received its first funding from <b>IIT Kharagpur</b> in 2015. <br/>  
+	    <br/> Centre for Excellence in Robotics received its first funding of &#8377;5 Crores from <b>IIT Kharagpur</b> in 2015. <br/>  
 		</p>	
 		
 		<!-- divider -->

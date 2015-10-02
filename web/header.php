@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<html prefix="og: http://ogp.me/ns#">
 <head>
 <meta charset="utf-8">
 <title>Centre For Excellence In Robotics</title>
@@ -7,6 +8,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="description" content="" />
 <meta name="author" content="http://bootstraptaste.com" />
+
+<meta property="og:url"           content="http://www.cferobotics.iitkgp.ac.in" /><meta property="og:type" content="website" />
+<meta property="og:title"         content="Centre for Excellence in Robotics, IIT Kharagpur" />
+<meta property="og:description"   content="IIT Kharagpur Centre for Excellence in Robotics Website" />
+<meta property="og:image"         content="http://www.cferobotics.iitkgp.ac.in/logo.jpg" />
+
 <!-- css -->
 <link href="css/bootstrap.min.css" rel="stylesheet" />
 <!-- <link href="css/fancybox/jquery.fancybox.css" rel="stylesheet"> -->
