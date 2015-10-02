@@ -23,7 +23,7 @@
 
 	</section>
 	 <!-- <br/> -->
-		<section id="content" align = "center" style="margin-top:-30px;width:1100px;margin-left:232px;">
+		<center><section id="content" style="margin-top:-30px;width:1100px;text-align:center">
 			 <div class="container" style="width:1100px;">
 			  <div id="wrapper1" >
 			<div class="first">
@@ -31,17 +31,14 @@
 					<!--<dt>News ticker</dt>-->
 						<dd>Kharagpur Robosoccer Student's Group won Bronze medal in FIRA Roboworld Cup held in Dajeon, South Korea.</dd>
 	
-					<!--<dt>Scoreboard style</dt>-->
-						<dd>Technology Robotix Society organized a Guest Lecture by Sri Krishna, Development Manager, iRobot with the help of Prof. P.L. Narsimhan, TVS Motors Chair Professor, Industrial & Systems Engineering on 27 August 2015.</dd>
+			    		<dd>Technology Robotix Society organized a Guest Lecture by Sri Krishna, Development Manager, iRobot with the help of Prof. P.L. Narsimhan, TVS Motors Chair Professor, Industrial & Systems Engineering on 27 August 2015.</dd>
 	
-					<!--<dt>WWW</dt>-->
-			
 				</dl>
 			</div>
 			
 		</div>
     </div>
-    </section> <br/>
+    </section></center> <br/>
     <br/>
 	<section class="callaction">
 	<div class="container">
