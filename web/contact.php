@@ -38,7 +38,7 @@ Overall Coordinator, Centre for Excellence in Robotics<br/>
 <b>Ph. No:</b> 9002296766  <br/><br/>
 
 <b>Name :</b> Soumyadeep Mukherjee<br/>
-<b>Email :</b> soumyadeep.mukherjee[at]iikgp.ac.in <br/>
+<b>Email :</b> soumyadeep.mukherjee[at]iitkgp.ac.in <br/>
 <b>Ph. No:</b> 7407651462 <br/>
 </div>
 </td>
