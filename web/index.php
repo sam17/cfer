@@ -33,7 +33,7 @@
 						<dd>Kharagpur Robosoccer Student's Group won Bronze medal in FIRA Roboworld Cup held in Dajeon, South Korea.</dd>
 	
 			    		<dd>Technology Robotix Society organized a Guest Lecture by Sri Krishna, Development Manager, iRobot with the help of Prof. P.L. Narsimhan, TVS Motors Chair Professor, Industrial & Systems Engineering on 27 August 2015.</dd>
-	
+					<dd> IIT Kharagpur is hosting a course on <a href="http://www.mymail.iitkgp.ernet.in/iswt/course/15IWT11.pdf">"Special Topics in Robotics"</a> as part of ISWT under GIAN inititaive. </dd>	
 				</dl>
 			</div>
 			
